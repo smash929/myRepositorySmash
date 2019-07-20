@@ -1,1 +1,7 @@
 I am building a pipeline 
+I am building a pipeline 
+now you are in Deploy Job 
+now you are in Test Job 
+I am building a pipeline 
+now you are in Deploy Job 
+now you are in Test Job 
